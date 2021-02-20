@@ -1,0 +1,14 @@
+.left-footer{
+    text-align: left !important;
+    margin-right: 40%;
+}
+.right-footer{
+    text-align: right !important;
+    margin-left: 30% ;
+    
+}
+.footer{
+    min-height: 50px;
+    background-color: black;
+    color: white;
+}

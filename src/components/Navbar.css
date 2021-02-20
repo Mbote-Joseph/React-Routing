@@ -1,0 +1,24 @@
+.link1,
+.link2,
+.link3,
+.link4 {
+  margin-left: 10px;
+  font-size: 20px;
+  font: 1.5em sans-serif;
+  font-style: italic;
+  margin-top: 20px !important;
+  text-decoration: none;
+  color: white;
+}
+.link1:hover,
+.link2:hover,
+.link3:hover,
+.link4:hover {
+  font-size: 25px;
+}
+
+.navbar {
+  text-align: right !important;
+  background-color: #0c3cda;
+  min-height: 50px;
+}
